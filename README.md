@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm HexaMar 🚀
 
-<!--
-**HexaMar/HexaMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a beginner in programming, exploring the world of code in my free time. 🚀
 
-Here are some ideas to get you started:
+## 🔧 About Me
+- 🌱 I’m currently learning **Python, C++, and blockchain development**.
+- 💡 I enjoy solving problems and exploring new technologies.
+- 📚 Constantly experimenting with code and trying to build useful tools.
+- 🚀 I'm here to learn, share, and collaborate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❤️ Support My Journey
+If you find my work interesting or helpful, you can support me with a donation:  
+**Bitcoin:** `bc1q5cxpfq328w67fyfspr3ykt0a2xw895dphtg8s5`  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84314152/124379067-1b674100-dcb1-11eb-8b63-292c8717f7d3.png" alt="QR for Bitcoin donation" width="200">
+</p>
+
+Thank you for visiting my profile! 😎
