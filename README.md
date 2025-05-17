@@ -1,8 +1,9 @@
 # 👋 Hi there! I'm HexaMar 🚀
 <h1 align="center">
+  🚀 CryptoMar 1.0 Release 🚀
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=36A3F5&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+Blockchain+Enthusiast;Exploring+Python+%26+C%2B%2B;Always+Learning!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=36A3F5&center=true&vCenter=true&lines=Full+and+Free+Release+of+CryptoMar+1.0+(English+Version);Полный+и+бесплатный+релиз+CryptoMar+1.0+(Русская+версия);Реліз+повної+і+безкоштовної+версії+CryptoMar+1.0+(Українська+версія)">
 </p>
 
 
