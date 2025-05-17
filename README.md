@@ -1,9 +1,4 @@
 # 👋 Hi there! I'm HexaMar 🚀
-</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=5000&color=FF5733&center=true&vCenter=true&lines=Release+of+CryptoMar+1.0;Релиз+CryptoMar+1.0;Реліз+CryptoMar+1.0">
-</p>
-
 
 Welcome to my GitHub profile! I'm a beginner in programming, exploring the world of code in my free time. 🚀
 
