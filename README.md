@@ -13,7 +13,7 @@ If you find my work interesting or helpful, you can support me with a donation:
 **Bitcoin:** `bc1q5cxpfq328w67fyfspr3ykt0a2xw895dphtg8s5`  
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/HexaMar/HexaMar/refs/heads/main/qr.png]" alt="QR for Bitcoin donation" width="200">
+  <img src="https://raw.githubusercontent.com/HexaMar/HexaMar/main/qr.png" alt="QR for Bitcoin donation" width="200">
 </p>
 
 
