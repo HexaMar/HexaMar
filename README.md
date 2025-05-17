@@ -1,4 +1,11 @@
 # 👋 Hi there! I'm HexaMar 🚀
+<h1 align="center">
+  👋 Hello, I'm HexaMar! 🚀
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=36A3F5&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+Blockchain+Enthusiast;Exploring+Python+%26+C%2B%2B;Always+Learning!">
+</p>
+
 
 Welcome to my GitHub profile! I'm a beginner in programming, exploring the world of code in my free time. 🚀
 
