@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm HexaMar 🚀
+# Hi there! I'm HexaMar 
 
 Welcome to my GitHub profile! I'm a beginner in programming, exploring the world of code in my free time. 🚀
 
