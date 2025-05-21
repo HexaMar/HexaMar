@@ -18,8 +18,6 @@ Welcome to my GitHub profile! I'm a beginner in programming, exploring the world
 - [Português](https://github.com/HexaMar/CryptoMar_PT)
 - [Türkçe](https://github.com/HexaMar/CryptoMar_TR)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HexaMar&theme=radical)
-
 ## ❤️ Support My Journey
 If you find my work interesting or helpful, you can support me with a donation:  
 **Bitcoin:** `bc1q5cxpfq328w67fyfspr3ykt0a2xw895dphtg8s5`  
