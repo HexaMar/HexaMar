@@ -1,13 +1,15 @@
-# Hi there! I'm HexaMar 
+# 👋 Hi there! I'm HexaMar
 
-Welcome to my GitHub profile! I'm a beginner in programming, exploring the world of code in my free time. 🚀
+Welcome to my GitHub profile — home of **CryptoMar**, a high-performance Bitcoin wallet brute-force engine designed for speed, efficiency, and real-world results. 💸
 
-## 🔧 About Me
-- 🌱 I’m currently learning **Python, C++, and blockchain development**.
-- 💡 I enjoy solving problems and exploring new technologies.
-- 📚 Constantly experimenting with code and trying to build useful tools.
-- 🚀 I'm here to learn, share, and collaborate.
+## 🚀 About Me
+- 🔧 I develop tools that combine cryptography, performance, and practicality.
+- 🧠 Focused on **Python**, **C++**, and **blockchain infrastructure**.
+- 💼 Creator of **CryptoMar** — a distributed brute-force solution for P2WPKH wallets.
+- 💰 Designed not just for exploration, but with the potential to **earn real rewards**.
+- 📊 Passionate about building fast, reliable systems that push boundaries.
 
+Feel free to explore the repositories, test the tools, and reach out if you're interested in collaboration or feedback!
 ```bash
 |=========================================================================================|
 |                                                                                         |
