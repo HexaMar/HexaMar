@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a beginner in programming, exploring the world
 - 📚 Constantly experimenting with code and trying to build useful tools.
 - 🚀 I'm here to learn, share, and collaborate.
 
-## CryptoMar 1.1.0!
+## The CryptoMar 1.1.0 release is available in multiple languages!
 - [English](https://github.com/HexaMar/CryptoMar_EN)
 - [Русский](https://github.com/HexaMar/CryptoMar_RU)
 - [Українська](https://github.com/HexaMar/CryptoMar_UA)
