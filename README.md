@@ -8,6 +8,21 @@ Welcome to my GitHub profile! I'm a beginner in programming, exploring the world
 - 📚 Constantly experimenting with code and trying to build useful tools.
 - 🚀 I'm here to learn, share, and collaborate.
 
+```bash
+|=========================================================================================|
+|                                                                                         |
+|                 _____                      _           __  __                           |
+|                / ____|                    | |         |  \/  |                          |
+|               | |      _ __  _   _  _ __  | |_   ___  | \  / |  __ _  _ __              |
+|               | |     | '__|| | | || '_ \ | __| / _ \ | |\/| | / _` || '__|             | 
+|               | |____ | |   | |_| || |_) || |_ | (_) || |  | || (_| || |                |
+|                \_____||_|    \__, || .__/  \__| \___/ |_|  |_| \__,_||_|                |
+|                               __/ || |                                                  |
+|                              |___/ |_|                                                  |
+|                                                                                         |
+|=========================================================================================|
+```
+
 ## The CryptoMar 1.1.0 release is available in multiple languages!
 - [English](https://github.com/HexaMar/CryptoMar_EN)
 - [Русский](https://github.com/HexaMar/CryptoMar_RU)
