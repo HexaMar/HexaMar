@@ -880,26 +880,6 @@ if __name__ == '__main__':
     shm = shared_memory.SharedMemory(create=True, size=len(address_bytes))
     shm.buf[:len(address_bytes)] = address_bytes
 
-# =================== Налаштування джекпотів ===================
-    # Набір гаманців та ключів наживок
-    bait_adresess_and_wifs = \
-        [
-            ("bc1qg29k0xr0ql2efdczqktnksrlxadfxy36n8u8vd", "L16vFFpJQ918bGQ9rThEzk2NUAgo7XRnkh3e9zZrtq7FHeyEBbQH"),
-            ("bc1qlk2ks63zrrcx2h06e6ejmp3hgfuzv0gmuvgv7u", "L1AHZbKxe4EBfTkEQYyQHRkjw7Yza2anp3hwqWCdjS2cUXAhKvwr"),
-            ("bc1q3kv0slj624kwg72k6qrq0f44hyx3ll5p5r2pa8", "L1wCH9BxvY5cxfU9Fu3nCYcfnpBy3yEpnhwXBtewxesi7NRv6rrB")
-        ]
-
-    jackpot_adresess_and_wifs = \
-        [
-            ("bc1q0000005259fzmctd5xp7afs07dec5kxmp3fwgw", CryptoMar.get_wif()),
-            ("bc1q0002phghjxrk327w5rpej05vtu5uamplj0c4d4", CryptoMar.get_wif()),
-            ("bc1q0003knz5uk0pdcha0529u56xu093ntkkglwuqg", CryptoMar.get_wif()),
-            ("bc1q03g870h3ln0xshlxwvr5jr6h6vxysx9ua9jynt", CryptoMar.get_wif()),
-            ("bc1q03g8fkxu8xha5j3ekaesqkd9wnexe7kh0r4af9", CryptoMar.get_wif()),
-            ("bc1q03g8nc0ujguxvvn5vfv7t23jv7rg0pvh3f4ucn", CryptoMar.get_wif()),
-            ("bc1q03g9jg8ee3j47mpf6qvyskq6u2tup49d9lplqp", CryptoMar.get_wif()),
-        ]
-
     # Створюємо процес для пошуку з аргументами
     processes = [
         Process(target=worker, args=(counter, found, shm.name, len(address_bytes)))
