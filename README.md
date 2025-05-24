@@ -25,7 +25,7 @@ Feel free to explore the repositories, test the tools, and reach out if you're i
 |=========================================================================================|
 ```
 
-Update (24.05.2025): Memory usage has been optimized. A Bloom filter is now used for fast searching and memory efficiency, combined with balance verification to prevent false positives. To generate the filter file, please run the program as administrator.
+**Update** (24.05.2025): Memory usage has been optimized. A Bloom filter is now used for fast searching and memory efficiency, combined with balance verification to prevent false positives. To generate the filter file, please run the program as administrator.
 
 ## The CryptoMar 1.1.0 release is available in multiple languages!
 - [English](https://github.com/HexaMar/CryptoMar_EN)
